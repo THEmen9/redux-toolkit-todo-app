@@ -55,7 +55,7 @@ src/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/redux-toolkit-todo-app.git
+git clone https://github.com/THEmen9/redux-toolkit-todo-app.git
 ```
 
 Navigate to the project folder
